@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 -->
 
 [![mojoX911 github stats](https://github-readme-stats.vercel.app/api?username=mojoX911&theme=merko&show_icons=true&hide=stars)](https://github.com/mojoX911/github-readme-stats)
-
-- 🔭 I’m working on Bitcoin related projects
-- 💼  I use Rust, Python, C++
-- 📫 How to reach me: mojojojo48@protonmail.com
